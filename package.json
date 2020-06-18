@@ -1,0 +1,11 @@
+{
+  "name": "firstexpress",
+  "version": "1.0.0",
+  "description": "My first Express server with PT13",
+  "main": "index.js",
+  "author": "Meade",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
